@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(255, 219, 181, 1);
+}
+
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-brand {
+    float:none;
+    font-size: 48px;}
+
+.navbar{
+    background: rgba(45, 48, 71, 0.925);
+    color: rgba(224, 164, 88, 1);
+}
+
+.card{
+    margin: 20px;
+    padding: 0;
+}
+
+.card-header{
+    background: rgba(65, 157, 120, 0.582);
+}
+
+.list-group{
+    margin: 10px;
+    border: solid 2px rgba(128, 128, 128, 0.205);  
+}

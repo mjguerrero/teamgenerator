@@ -1,0 +1,29 @@
+{
+  "name": "team_generator",
+  "version": "1.0.0",
+  "description": "Team Generator profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjguerrero/teamgenerator.git"
+  },
+  "keywords": [
+    "node",
+    "jest",
+    "inquirer"
+  ],
+  "author": "Maria Jose Guerrero",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/mjguerrero/teamgenerator/issues"
+  },
+  "homepage": "https://github.com/mjguerrero/teamgenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
